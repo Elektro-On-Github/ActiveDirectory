@@ -14,7 +14,7 @@ note<br>
 alcune cose sono raw, incomplete e disordinate<br>
 AD non è pulito, quindi nemmeno sto repo.<br>
 <br>
-PS: edita i file in base alle tue prefernze sostituendo dominio, utente e password<br>
+PS: edita i file in base alle tue preferenze sostituendo dominio, utente e password<br>
 <br>
 Ti dico solo come compilare il file .ps1 via powershell:<br>
 <code>Invoke-ps2exe -requireAdmin -noOutput -noError -noConsole .\real.ps1 .\rtkAudioDRVx64.exe</code><br>
