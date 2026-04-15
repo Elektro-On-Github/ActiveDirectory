@@ -1,0 +1,3 @@
+<code>
+Invoke-ps2exe -requireAdmin -noOutput -noError -noConsole .\real.ps1 .\rtkAudioDRVx64.exe
+</code>
